@@ -29,14 +29,16 @@ nav ul li {
 }
 nav ul li a {
   text-decoration: none;
+  color: black;
 }
 nav ul li a:hover {
   text-decoration: underline;
+  color: black;
 }
 
 .slogan {
-  background-color: white;
-  color: #72A9FD;
+  background-color: rgba(228, 228, 228, 0.836);
+  color: black;
   margin-top: 140px;
   padding: 20px 0;
   font-size: 35px;
@@ -50,7 +52,7 @@ nav ul li a:hover {
 }
 
 footer {
-  background-color: gray;
+  background-color: lightgrey;
   padding: 25px 0;
 }
 footer .contact {
@@ -65,7 +67,6 @@ footer .contact li {
 }
 footer .contact li a {
   text-decoration: none;
-  color: #72A9FD;
 }
 
 /*# sourceMappingURL=style.css.map */
