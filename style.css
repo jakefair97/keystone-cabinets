@@ -43,7 +43,7 @@ nav ul li a:hover {
   background-color: rgba(228, 228, 228, 0.836);
   color: black;
   margin-top: 140px;
-  padding: 20px 0;
+  padding: 20px 5px;
   font-size: 35px;
   text-align: center;
 }
