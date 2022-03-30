@@ -92,4 +92,9 @@ footer .contact li a {
   flex: 3;
 }
 
+.survey-container {
+  max-width: 640px;
+  margin: 142px auto 20px auto;
+}
+
 /*# sourceMappingURL=style.css.map */
