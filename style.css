@@ -72,4 +72,24 @@ footer .contact li a {
   text-decoration: none;
 }
 
+.about-container {
+  margin: 150px 20px 20px 20px;
+  background-color: rgba(128, 255, 212, 0.8);
+  display: flex;
+  align-items: center;
+}
+.about-container .boss-pic {
+  height: 300px;
+  background-color: green;
+  display: flex;
+  flex: 1;
+}
+.about-container .banner {
+  margin: auto;
+}
+.about-container p {
+  padding: 10px 20px;
+  flex: 3;
+}
+
 /*# sourceMappingURL=style.css.map */
